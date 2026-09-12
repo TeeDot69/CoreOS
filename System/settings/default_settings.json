@@ -1,0 +1,18 @@
+{
+  "hostname": "CoreOS",
+  "date_format": "ISO",
+  "time_format": "24h",
+  "enable_logging": true,
+
+  "prompt_color": "green",
+  "prompt_style": "default",
+  "show_watermark": true,
+  "bell_enabled": false,
+
+  "show_hidden_files": false,
+  "list_directories_first": true,
+  "confirm_delete": true,
+
+  "history_size": 100,
+  "startup_command": ""
+}
